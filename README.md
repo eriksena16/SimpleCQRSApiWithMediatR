@@ -1,5 +1,5 @@
 
-# 🧱 Estrutura de Projeto com DDD, CQRS e MediatR
+# 🧱 Design Structure with DDD, CQRS and MediatR
 
 ## 📝 Project Description (English)
 
