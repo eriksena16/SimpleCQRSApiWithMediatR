@@ -1,8 +1,6 @@
 
 # 🧱 Design Structure with DDD, CQRS and MediatR
 
-## 📝 Project Description (English)
-
 This project demonstrates an API structure using **DDD (Domain-Driven Design)**, **CQRS (Command Query Responsibility Segregation)**, and **MediatR** to achieve a clean separation of concerns. The architecture is organized into four main layers:
 
 - `API`: The entry point layer (controllers), responsible for exposing HTTP endpoints.
@@ -16,7 +14,6 @@ The structure was designed to be scalable, modular, and easy to maintain — mak
 
 🧱 Estrutura de Projeto com DDD, CQRS e MediatR
 
-📝 Descrição do Projeto (Português)
 Este projeto demonstra uma estrutura de API utilizando os padrões DDD (Domain-Driven Design), CQRS (Command Query Responsibility Segregation) e o MediatR para desacoplamento entre camadas. A arquitetura é organizada em quatro camadas principais:
 
 API: Camada de entrada (controllers) responsável por expor os endpoints HTTP.
